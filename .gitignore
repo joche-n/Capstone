@@ -4,3 +4,5 @@ train/
 test/
 tomo_00e463/
 close_to_edge/
+.python-version
+.venv/
