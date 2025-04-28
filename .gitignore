@@ -1,0 +1,6 @@
+*.png
+*.jpg
+train/
+test/
+tomo_00e463/
+close_to_edge/
