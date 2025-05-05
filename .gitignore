@@ -12,3 +12,4 @@ detr_finetuned_cppe5/
 yolos_base_finetuned_yolololos/
 archive.tar.gz
 packages/
+ultralytics-for-offline-install/
