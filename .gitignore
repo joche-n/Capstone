@@ -8,4 +8,7 @@ close_to_edge/
 .venv/
 Keggle_test/
 data/
-detr_finetuned_cppe5
+detr_finetuned_cppe5/
+yolos_base_finetuned_yolololos/
+archive.tar.gz
+packages/
