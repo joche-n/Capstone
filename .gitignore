@@ -13,3 +13,9 @@ yolos_base_finetuned_yolololos/
 archive.tar.gz
 packages/
 ultralytics-for-offline-install/
+yolosv2/
+output_yolo_transformer/
+yolov2_peochbefor/
+coco/
+random_predic/
+rf-detr/
